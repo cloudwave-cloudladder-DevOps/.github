@@ -1,4 +1,4 @@
 
-# CJ 올리브네트웍스 CLOUDWAVE 2기 구름사다리 DevOps
+# CJ 올리브네트웍스 CLOUDWAVE 2기 구름사다리
 
-![CJOlivenetworks_CI_ENG_type(A)](https://github.com/cloudwave-cloudladder-DevOps/cloudwave-cloudladder-DevOps/assets/74645991/09d4cd3b-062d-4ec5-8397-650eeeba0134)
+<img width="300" alt="image" src="https://github.com/cloudwave-cloudladder-DevOps/app-nodeJs/assets/74645991/e0e76079-3ec4-4f69-849e-a3c6bb7a9bbc">
